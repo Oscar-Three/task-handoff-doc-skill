@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Handoff Doc"
+  short_description: "Create an AI-readable project handoff document after task work."
+  default_prompt: "Create or update an AI handoff document for this project so another agent can understand the project, current progress, implementation details, verification status, and next steps."
